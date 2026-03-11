@@ -1,57 +1,58 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
+
 <h3 align="center">Mechanical Engineering Student | DevOps Enthusiast | AWS Cloud Learner</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavankumarcm04&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Mechanical Engineering Student  
-- ☁️ Learning **AWS Cloud & DevOps**
-- 🔧 Interested in **CI/CD, Automation & Cloud Infrastructure**
-- 📚 Currently improving **Linux & Git skills**
+- ☁️ Learning **AWS Cloud & DevOps**  
+- 🔧 Interested in **CI/CD, Automation & Cloud Infrastructure**  
+- 📚 Currently learning **Docker & Kubernetes**  
 - 🎯 Goal: Become a **DevOps Engineer**
 
 ---
 
-## 🛠 Tech Skills
+## 🛠 DevOps Tools
 
-- AWS Cloud
-- Git & GitHub
-- Linux
-- DevOps
-- CI/CD
-- Automation
-
----
-
-## 📚 Currently Learning
-
-- AWS Services
-- Docker
-- Kubernetes
-- Jenkins
-- Infrastructure as Code
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,kubernetes,jenkins" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumarcm04&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankumarcm04&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04&theme=tokyonight)
 
 ---
 
-## 🧰 Tools & Technologies
+## 📈 Contribution Graph
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Git](https://img.shields.io/badge/Git-VersionControl-red)
-![Linux](https://img.shields.io/badge/Linux-OperatingSystem-yellow)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-blue)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavankumarcm04&theme=github)
+
+---
+
+## 📚 Currently Learning
+
+- AWS Cloud Services  
+- Docker  
+- Kubernetes  
+- Jenkins  
+- Infrastructure as Code
 
 ---
 
@@ -63,4 +64,10 @@
 
 ---
 
-⭐ *Always learning and building new things in Cloud & DevOps.*
+## 💡 Dev Quote
+
+"Continuous learning and automation are the keys to modern DevOps success."
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
