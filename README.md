@@ -63,13 +63,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04&theme=tokyonight)
 
----
-## 🧰 Tools & Technologies
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Git](https://img.shields.io/badge/Git-VersionControl-red)
-![Linux](https://img.shields.io/badge/Linux-OperatingSystem-yellow)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-blue)
 
 ---
 ## 📈 Contribution Graph
