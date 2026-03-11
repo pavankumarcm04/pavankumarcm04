@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
+<h3 align="center">Mechanical Engineering Student | DevOps Enthusiast | AWS Cloud Learner</h3>
 
-<!--
-**pavankumarcm04/pavankumarcm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Mechanical Engineering Student  
+- ☁️ Learning **AWS Cloud & DevOps**
+- 🔧 Interested in **CI/CD, Automation & Cloud Infrastructure**
+- 📚 Currently improving **Linux & Git skills**
+- 🎯 Goal: Become a **DevOps Engineer**
+
+---
+
+## 🛠 Tech Skills
+
+- AWS Cloud
+- Git & GitHub
+- Linux
+- DevOps
+- CI/CD
+- Automation
+
+---
+
+## 📚 Currently Learning
+
+- AWS Services
+- Docker
+- Kubernetes
+- Jenkins
+- Infrastructure as Code
+
+---
+
+## 📊 GitHub Stats
+
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumarcm04&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04)
+
+---
+
+## 🧰 Tools & Technologies
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Git](https://img.shields.io/badge/Git-VersionControl-red)
+![Linux](https://img.shields.io/badge/Linux-OperatingSystem-yellow)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-blue)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: pavankumarcm04@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/pavan-kumar-cm-148726376  
+📸 Instagram: _pavancm04_
+
+---
+
+⭐ *Always learning and building new things in Cloud & DevOps.*
