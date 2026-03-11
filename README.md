@@ -65,8 +65,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04&theme=tokyonight)
 
 ---
-
-
+## 🧰 Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
@@ -82,7 +81,7 @@
 
 📧 Email: pavankumarcm04@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/pavan-kumar-cm-148726376  
-📸 Instagram: _pavancm04_
+📸 Instagram: https://instagram.com/_pavancm04_
 
 ---
 
