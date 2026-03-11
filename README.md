@@ -3,17 +3,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Mechanical Engineering Student  
-- ☁️ Learning **AWS Cloud & DevOps**
-- 🔧 Interested in **CI/CD, Automation & Cloud Infrastructure**
-- 📚 Currently improving **Linux & Git skills**
-- 🎯 Goal: Become a **DevOps Engineer**
+-  Mechanical Engineering Student  
+-  Learning **AWS Cloud & DevOps**
+-  Interested in **CI/CD, Automation & Cloud Infrastructure**
+-  Currently improving **Linux & Git skills**
+-  Goal: Become a **DevOps Engineer**
 
 ---
 
-## 🛠 Tech Skills
+##  Tech Skills
 
 - AWS Cloud
 - Git & GitHub
@@ -24,7 +24,7 @@
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - AWS Services
 - Docker
@@ -33,7 +33,7 @@
 - Infrastructure as Code
 
 ---
-## 🛠 DevOps Tools Technologies
+##  DevOps Tools Technologies
 
 
 <p>
@@ -41,35 +41,35 @@
 </p>
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumarcm04&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankumarcm04&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04&theme=tokyonight)
 
 
 ---
-## 📈 Contribution Graph
+##  Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavankumarcm04&theme=github)
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📧 Email: pavankumarcm04@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/pavan-kumar-cm-148726376  
