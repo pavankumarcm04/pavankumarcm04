@@ -33,6 +33,13 @@
 - Infrastructure as Code
 
 ---
+## 🛠 DevOps Tools Technologies
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,kubernetes,jenkins" />
+</p>
+---
 
 ## 📊 GitHub Stats
 
@@ -43,14 +50,6 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04)
-
----
-## 🛠 DevOps Tools Technologies
-
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,kubernetes,jenkins" />
-</p>
 
 ---
 
