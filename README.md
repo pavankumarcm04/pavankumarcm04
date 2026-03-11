@@ -45,7 +45,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumarcm04)
 
 ---
-## 🛠 DevOps Tools
+## 🛠 DevOps Tools Technologies
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,kubernetes,jenkins" />
@@ -65,13 +66,7 @@
 
 ---
 
-## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavankumarcm04&theme=github)
-
----
-
-## 🧰 Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
@@ -79,6 +74,9 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-blue)
 
 ---
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavankumarcm04&theme=github)
 
 ## 📫 Connect With Me
 
